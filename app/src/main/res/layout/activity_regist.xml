@@ -6,8 +6,7 @@
     android:layout_height="match_parent"
     tools:context="temp.com.gelaigelai.RegistActivity"
     android:orientation="vertical"
-    android:layout_gravity="center"
-    android:background="@drawable/welcome">
+    android:layout_gravity="center">
 
     <TableLayout
         android:layout_width="match_parent"
